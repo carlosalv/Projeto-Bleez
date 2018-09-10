@@ -1,0 +1,42 @@
+*{
+padding: 0px;
+margin: 0px;
+font-family: 'Lato', sans-serif;
+
+}
+
+div ul{
+background: #fff;
+list-style: none;
+display: flex;
+
+
+img{
+border-radius: 5px;
+max-width: 100%;
+}
+
+li{
+width: 200%;
+padding: 10px;
+margin-right: 10px;
+
+}
+}
+
+footer{
+margin-top: 200px;
+background-color: black;
+height: 100px;
+div{
+a{
+text-align: right;
+margin-top: 200px;
+color:white;
+}
+p{
+color:white;
+}
+
+}
+}

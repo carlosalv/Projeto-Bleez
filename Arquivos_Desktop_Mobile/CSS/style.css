@@ -1,0 +1,27 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Lato', sans-serif; }
+
+div ul {
+  background: #fff;
+  list-style: none;
+  display: flex; }
+  div ul img {
+    border-radius: 5px;
+    max-width: 100%; }
+  div ul li {
+    width: 200%;
+    padding: 10px;
+    margin-right: 10px; }
+
+footer {
+  margin-top: 200px;
+  background-color: black;
+  height: 100px; }
+  footer div a {
+    text-align: left;
+    margin-top: 200px;
+    color: white; }
+  footer div p {
+    color: white; }
